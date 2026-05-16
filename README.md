@@ -28,4 +28,6 @@ identificando os factores que influenciaram a sobrevivência dos passageiros.
 - Jupyter Notebook
 
 ## Como executar
-1.
+1. Clona o repositório
+2. Instala as dependências: `pip install pandas matplotlib seaborn`
+3. Abre o ficheiro `.ipynb` no Jupyter Notebook
